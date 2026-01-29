@@ -1,0 +1,1 @@
+Just a simple javascript program from my 2nd semester to demonstrate my skills. Been a handful times where I needed to figure out the syntax to do this particular thing, but due to my previous Java experience, I didnt have a hard time with logic. 
