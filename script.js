@@ -3,6 +3,7 @@ let count = 0;
 const counter = document.getElementById("counter")
 const countDownNumber = document.getElementById("countDownButton");
 counter.style.color = "black";
+deactiveReset()
 
 function changeColor(){
     if (count > 0) {
